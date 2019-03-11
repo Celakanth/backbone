@@ -56,6 +56,18 @@ textarea {
     padding: 0.2em 0;
 }
 
+.navli{
+    float:left;
+    list-style-type: none;
+    padding-right: 5px;
+    cursor: pointer;
+}
+
+.navli:hover{
+    text-decoration: underline;
+    color: #999;
+ }
+
 
 /* ==========================================================================
    Author's custom styles
